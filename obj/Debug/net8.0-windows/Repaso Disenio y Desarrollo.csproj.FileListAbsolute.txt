@@ -1,0 +1,16 @@
+C:\Users\Joaquin\source\repos\Repaso Disenio y Desarrollo\obj\Debug\net8.0-windows\Repaso_Disenio_y_Desarrollo.Form1.resources
+C:\Users\Joaquin\source\repos\Repaso Disenio y Desarrollo\obj\Debug\net8.0-windows\Repaso Disenio y Desarrollo.csproj.GenerateResource.cache
+C:\Users\Joaquin\source\repos\Repaso Disenio y Desarrollo\obj\Debug\net8.0-windows\Repaso Disenio y Desarrollo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaquin\source\repos\Repaso Disenio y Desarrollo\obj\Debug\net8.0-windows\Repaso Disenio y Desarrollo.AssemblyInfoInputs.cache
+C:\Users\Joaquin\source\repos\Repaso Disenio y Desarrollo\obj\Debug\net8.0-windows\Repaso Disenio y Desarrollo.AssemblyInfo.cs
+C:\Users\Joaquin\source\repos\Repaso Disenio y Desarrollo\obj\Debug\net8.0-windows\Repaso Disenio y Desarrollo.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin\source\repos\Repaso Disenio y Desarrollo\bin\Debug\net8.0-windows\Repaso Disenio y Desarrollo.exe
+C:\Users\Joaquin\source\repos\Repaso Disenio y Desarrollo\bin\Debug\net8.0-windows\Repaso Disenio y Desarrollo.deps.json
+C:\Users\Joaquin\source\repos\Repaso Disenio y Desarrollo\bin\Debug\net8.0-windows\Repaso Disenio y Desarrollo.runtimeconfig.json
+C:\Users\Joaquin\source\repos\Repaso Disenio y Desarrollo\bin\Debug\net8.0-windows\Repaso Disenio y Desarrollo.dll
+C:\Users\Joaquin\source\repos\Repaso Disenio y Desarrollo\bin\Debug\net8.0-windows\Repaso Disenio y Desarrollo.pdb
+C:\Users\Joaquin\source\repos\Repaso Disenio y Desarrollo\obj\Debug\net8.0-windows\Repaso Disenio y Desarrollo.dll
+C:\Users\Joaquin\source\repos\Repaso Disenio y Desarrollo\obj\Debug\net8.0-windows\refint\Repaso Disenio y Desarrollo.dll
+C:\Users\Joaquin\source\repos\Repaso Disenio y Desarrollo\obj\Debug\net8.0-windows\Repaso Disenio y Desarrollo.pdb
+C:\Users\Joaquin\source\repos\Repaso Disenio y Desarrollo\obj\Debug\net8.0-windows\Repaso Disenio y Desarrollo.genruntimeconfig.cache
+C:\Users\Joaquin\source\repos\Repaso Disenio y Desarrollo\obj\Debug\net8.0-windows\ref\Repaso Disenio y Desarrollo.dll
